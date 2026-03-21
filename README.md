@@ -2,9 +2,16 @@
 
 # Heated-Ai-valry
 
-Create outputs that survive scrutiny — two agents attack each other until only the strongest ideas remain.
+Have a question worth getting right? A document that can't afford a flaw? Don't trust a single pass — let two agents destroy it until what's left is the best version possible.
 
-One agent (the Maximiser) pushes for boldness, impact, and ambition. The other (the Skeptic) demands evidence, correctness, and feasibility. They produce independent versions, surface disagreements, then resolve them across multiple rounds until consensus or exhaustion.
+# How it works
+😠 One agent (the Maximiser) pushes for boldness, impact, and ambition.
+
+😧 The other (the Skeptic) demands evidence, correctness, and feasibility.
+
+🗣️For N rounds, each agent produces an independent answer and viciously critique one another.
+
+⚖️ A battle-tested consensus is reached.
 
 ## Usage
 
