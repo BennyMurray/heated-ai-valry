@@ -1,6 +1,8 @@
-# heated-ai-valry
+![Alt text](./heated-ai-valry.png)
 
-A Claude Code plugin that runs adversarial debates between two AI agents to refine text, code, or concepts.
+# Heated-Ai-valry
+
+Create outputs that survive scrutiny — two agents attack each other until only the strongest ideas remain.
 
 One agent (the Maximiser) pushes for boldness, impact, and ambition. The other (the Skeptic) demands evidence, correctness, and feasibility. They produce independent versions, surface disagreements, then resolve them across multiple rounds until consensus or exhaustion.
 
