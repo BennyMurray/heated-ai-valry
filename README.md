@@ -25,7 +25,7 @@ Have a question worth getting right? A document that can't afford a flaw? Don't 
 /debate "tighten this resume" @resume.md
 /debate "produce me the optimum roadmap for learning how to write agentic workflows"
 /debate --rounds 5 "stress test this argument" @proposal.md
-/debate --quick "fix the tone" @email.txt
+/debate --quick --model haiku "fix the tone" @email.txt
 /debate "best approach to caching in this system"
 ```
 
